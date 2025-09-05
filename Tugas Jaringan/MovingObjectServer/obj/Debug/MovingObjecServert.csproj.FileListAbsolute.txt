@@ -1,0 +1,5 @@
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectServer\obj\Debug\MovingObjecServert.csproj.AssemblyReference.cache
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectServer\obj\Debug\MovingObjectServer.Form1.resources
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectServer\obj\Debug\MovingObject.Properties.Resources.resources
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectServer\obj\Debug\MovingObjecServert.csproj.GenerateResource.cache
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectServer\obj\Debug\MovingObjecServert.csproj.CoreCompileInputs.cache

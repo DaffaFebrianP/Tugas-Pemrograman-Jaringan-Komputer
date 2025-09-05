@@ -1,0 +1,10 @@
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.AssemblyReference.cache
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObjectClient.Form1.resources
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObject.Properties.Resources.resources
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.GenerateResource.cache
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.CoreCompileInputs.cache
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\bin\Debug\MovingObject.exe.config
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\bin\Debug\MovingObject.exe
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\bin\Debug\MovingObject.pdb
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObject.exe
+D:\INTI\Isi Tugas\Tugas Jaringan\MovingObjectClient\obj\Debug\MovingObject.pdb
