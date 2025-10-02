@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj": {}
+    "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj": {}
   },
   "projects": {
-    "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj": {
+    "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj",
+        "projectUniqueName": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj",
         "projectName": "ClientChat",
-        "projectPath": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj",
+        "projectPath": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj",
         "packagesPath": "C:\\Users\\riang\\.nuget\\packages\\",
-        "outputPath": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\obj\\",
+        "outputPath": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riang\\AppData\\Roaming\\NuGet\\NuGet.Config",

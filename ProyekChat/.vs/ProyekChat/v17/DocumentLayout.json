@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\INTI\\Isi Tugas\\ProyekChat\\",
+  "WorkspaceRootPath": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\proyekchat\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\proyekchat\\server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|solutionrelative:server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|solutionrelative:server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\proyekchat\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C8E4C30F-1C3F-4819-B94A-C3B4B834860D}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\proyekchat\\clientchat\\clientchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\proyekchat\\clientchat\\clientchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1A9CCA13-7F3E-43D8-9B14-5E4636C55A79}|ClientChat\\ClientChat.csproj|solutionrelative:clientchat\\clientchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ClientChat\\AssemblyInfo.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\AssemblyInfo.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\AssemblyInfo.cs",
               "RelativeToolTip": "ClientChat\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,83 +70,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ClientChat\\MainWindow.xaml",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\MainWindow.xaml",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\MainWindow.xaml",
               "RelativeToolTip": "ClientChat\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T01:50:41.673Z"
+              "WhenOpened": "2025-09-18T01:50:41.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ClientChat\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\MainWindow.xaml.cs",
               "RelativeToolTip": "ClientChat\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwGEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAowJIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:50:41.174Z"
+              "WhenOpened": "2025-09-18T01:50:41.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Program.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Program.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwEEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAowPgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T05:39:55.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Message.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Message.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Message.cs",
               "RelativeDocumentMoniker": "Server\\Message.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Message.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Message.cs",
               "RelativeToolTip": "Server\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T05:47:19.663Z"
+              "WhenOpened": "2025-09-18T05:47:19.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\Message.cs",
+              "RelativeDocumentMoniker": "ClientChat\\Message.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\Message.cs",
+              "RelativeToolTip": "ClientChat\\Message.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:57:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\App.xaml.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\App.xaml.cs",
               "RelativeDocumentMoniker": "ClientChat\\App.xaml.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\App.xaml.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\App.xaml.cs",
               "RelativeToolTip": "ClientChat\\App.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T05:55:49.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Message.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\Message.cs",
-              "RelativeDocumentMoniker": "ClientChat\\Message.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\Message.cs",
-              "RelativeToolTip": "ClientChat\\Message.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T05:57:39.921Z"
+              "WhenOpened": "2025-09-18T05:55:49.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ClientChat.csproj",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj",
               "RelativeDocumentMoniker": "ClientChat\\ClientChat.csproj",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\ClientChat.csproj",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\ClientChat.csproj",
               "RelativeToolTip": "ClientChat\\ClientChat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -156,20 +161,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\App.xaml",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\App.xaml",
               "RelativeDocumentMoniker": "ClientChat\\App.xaml",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\ClientChat\\App.xaml",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\ClientChat\\App.xaml",
               "RelativeToolTip": "ClientChat\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T05:49:35.733Z"
+              "WhenOpened": "2025-09-18T05:49:35.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Server.csproj",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Server.csproj",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\ProyekChat\\Server\\Server.csproj",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\ProyekChat\\Server\\Server.csproj",
               "RelativeToolTip": "Server\\Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
