@@ -13,10 +13,12 @@ public class Message
 
     // Penerima pesan pribadi
     [JsonPropertyName("to")]
+    //Menerima jika bukan PM
     public string? To { get; set; }
 
     // Isi pesan
     [JsonPropertyName("text")]
+    //Menerima jika pesan hanya userlist/typing
     public string? Text { get; set; }
 
     [JsonPropertyName("ts")]
@@ -24,14 +26,17 @@ public class Message
 
     // userlist
     [JsonPropertyName("users")]
+    //Menerima jika bukan pesan userlist
     public List<string>? Users { get; set; }
 
     // indikator ngetik
     [JsonPropertyName("isTyping")]
+    //Hanya terisi untuk Type="typing"
     public bool? IsTyping { get; set; }
 
     public Message()
     {
+        // Tetapkan timestamp saat objek dibuat
         Ts = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
     }
 }

@@ -226,6 +226,34 @@ namespace ClientChat
             string text = MessageText.Text.Trim();
             if (string.IsNullOrEmpty(text)) return;
 
+            // Bersihkan input sebelum diproses dan matikan indikator mengetik
+            MessageText.Clear();
+            typingTimer.Stop();
+            await SendTypingAsync(false);
+
+            // logika spam msg test
+            if (text.StartsWith("#test"))
+            {
+                // Format: #test <jumlah> <jeda_ms>
+                var parts = text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                int count = 100;
+                int delayMs = 100;
+
+                if (parts.Length > 1 && int.TryParse(parts[1], out int c))
+                {
+                    count = Math.Max(1, c);
+                }
+                if (parts.Length > 2 && int.TryParse(parts[2], out int d))
+                {
+                    delayMs = Math.Max(10, d);
+                }
+
+                _ = RunSpamTest(count, delayMs);
+                return;
+            }
+
+
             // private message
             if (text.StartsWith("@"))
             {
@@ -258,12 +286,43 @@ namespace ClientChat
                 var msg = new Message { Type = "msg", From = username, Text = text };
                 await writer.WriteLineAsync(JsonSerializer.Serialize(msg));
             }
-
-            MessageText.Clear();
-            // mematikan tulisan mengetik ketika pesan dikirim
-            typingTimer.Stop();
-            await SendTypingAsync(false);
         }
+
+        // tes spam
+        private async Task RunSpamTest(int count, int delayMs)
+        {
+            if (writer == null || client == null || !client.Connected)
+            {
+                Dispatcher.Invoke(() => AppendSystem("Tidak terhubung untuk memulai tes spam."));
+                return;
+            }
+
+            // Harus dipanggil di UI thread
+            Dispatcher.Invoke(() => AppendSystem($"Memulai tes spam: {count} pesan dengan jeda {delayMs}ms..."));
+
+            try
+            {
+                for (int i = 1; i <= count; i++)
+                {
+                    if (client == null || !client.Connected) break;
+
+                    var text = $"[TEST-{i}/{count}] Pesan spam dari {username}";
+                    var msg = new Message { Type = "msg", From = username, Text = text };
+
+                    // Kirim pesan
+                    await writer.WriteLineAsync(JsonSerializer.Serialize(msg));
+
+                    //pesan beruntun
+                    await Task.Delay(delayMs);
+                }
+                Dispatcher.Invoke(() => AppendSystem($"Tes spam ({count} pesan) selesai."));
+            }
+            catch (Exception ex)
+            {
+                Dispatcher.Invoke(() => AppendSystem($"Tes spam terhenti karena error: {ex.Message}"));
+            }
+        }
+
 
         private async void DisconnectBtn_Click(object sender, RoutedEventArgs e)
         {
