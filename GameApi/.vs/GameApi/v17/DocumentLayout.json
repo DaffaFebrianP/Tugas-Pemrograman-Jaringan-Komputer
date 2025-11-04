@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\models\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\models\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\database context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\database context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113642_FixSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameApi\\Migrations\\20251103113642_FixSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113523_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameApi\\Migrations\\20251103113523_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\gameapi\\gameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86C179B6-0EC9-454F-AA96-46AAE6236386}|GameApi\\GameApi.csproj|solutionrelative:gameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251103113908_FixPlayerScoreStaticDate.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs",
+              "RelativeDocumentMoniker": "GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs",
+              "RelativeToolTip": "GameApi\\Migrations\\20251103113908_FixPlayerScoreStaticDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:39:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251103113642_FixSeedData.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113642_FixSeedData.cs",
+              "RelativeDocumentMoniker": "GameApi\\Migrations\\20251103113642_FixSeedData.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113642_FixSeedData.cs",
+              "RelativeToolTip": "GameApi\\Migrations\\20251103113642_FixSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:36:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251103113523_InitialCreate.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113523_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GameApi\\Migrations\\20251103113523_InitialCreate.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Migrations\\20251103113523_InitialCreate.cs",
+              "RelativeToolTip": "GameApi\\Migrations\\20251103113523_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:35:23.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "GameApi\\Controllers\\ScoresController.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "GameApi\\Controllers\\ScoresController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAYwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:34:21.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Program.cs",
+              "RelativeDocumentMoniker": "GameApi\\Program.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Program.cs",
+              "RelativeToolTip": "GameApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:33:56.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GameApi\\appsettings.Development.json",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\appsettings.Development.json",
+              "RelativeToolTip": "GameApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T11:31:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GameApi\\appsettings.json",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\appsettings.json",
+              "RelativeToolTip": "GameApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T11:31:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Database Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GameApi\\Database Context\\AppDbContext.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Database Context\\AppDbContext.cs",
+              "RelativeToolTip": "GameApi\\Database Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:31:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Models\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "GameApi\\Models\\PlayerScore.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GameApi\\GameApi\\Models\\PlayerScore.cs",
+              "RelativeToolTip": "GameApi\\Models\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:30:07.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
