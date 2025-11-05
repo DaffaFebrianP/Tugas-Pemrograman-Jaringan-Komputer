@@ -1,19 +1,26 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace GameApi.Models
 {
     public class PlayerScore
     {
-        // Primary key
+        [Key]
         public int Id { get; set; }
 
-        // Nama pemain, wajib diisi
+        [Required]
+        [MaxLength(100)]
         public string PlayerName { get; set; } = string.Empty;
 
-        // Nilai skor pemain
+        // 🧮 Skor total (akan dihitung otomatis di Controller)
         public int Score { get; set; }
 
-        // Waktu pencatatan data (default diisi otomatis oleh database lewat HasDefaultValueSql)
+        // 🧭 Data tambahan untuk analisis leaderboard
+        public float Range { get; set; }              // jarak tempuh (meter)
+        public float TimeSpent { get; set; }          // waktu bermain (detik)
+        public int PresentsCollected { get; set; }    // hadiah yang dikumpulkan
+
+        // 🕒 Waktu penyimpanan otomatis (diisi oleh SQLite)
         public DateTime CreatedAt { get; set; }
     }
 }

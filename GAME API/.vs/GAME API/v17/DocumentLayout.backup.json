@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\models\\playersscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\models\\playersscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\game api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\game api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Migrations\\20251105043744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GAME API\\Migrations\\20251105043744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\models\\playersscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\models\\playersscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|d:\\inti\\isi tugas\\tugas-pemrograman-jaringan-komputer\\game api\\game api\\migrations\\20251105043744_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130BA723-87F5-43A7-86CB-86BEF97BA373}|GAME API\\GAME API.csproj|solutionrelative:game api\\migrations\\20251105043744_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,19 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "GAME API\\WeatherForecast.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\WeatherForecast.cs",
-              "RelativeToolTip": "GAME API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GAME API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GAME API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:01:37.255Z",
+              "WhenOpened": "2025-11-05T16:21:34.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GAME API",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\GAME API.csproj",
+              "RelativeDocumentMoniker": "GAME API\\GAME API.csproj",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\GAME API.csproj",
+              "RelativeToolTip": "GAME API\\GAME API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T16:21:14.266Z",
               "EditorCaption": ""
             },
             {
@@ -59,54 +76,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GAME API\\WeatherForecast.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\WeatherForecast.cs",
+              "RelativeToolTip": "GAME API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:01:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PlayersScore.cs",
               "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Models\\PlayersScore.cs",
               "RelativeDocumentMoniker": "GAME API\\Models\\PlayersScore.cs",
               "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Models\\PlayersScore.cs",
               "RelativeToolTip": "GAME API\\Models\\PlayersScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T04:32:49.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ScoresController.cs",
               "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Controllers\\ScoresController.cs",
               "RelativeDocumentMoniker": "GAME API\\Controllers\\ScoresController.cs",
               "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Controllers\\ScoresController.cs",
               "RelativeToolTip": "GAME API\\Controllers\\ScoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T04:39:44.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Program.cs",
               "RelativeDocumentMoniker": "GAME API\\Program.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Program.cs",
-              "RelativeToolTip": "GAME API\\Program.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Program.cs*",
+              "RelativeToolTip": "GAME API\\Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T04:33:42.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251105043744_InitialCreate.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Migrations\\20251105043744_InitialCreate.cs",
-              "RelativeDocumentMoniker": "GAME API\\Migrations\\20251105043744_InitialCreate.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Migrations\\20251105043744_InitialCreate.cs",
-              "RelativeToolTip": "GAME API\\Migrations\\20251105043744_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:37:45.197Z",
               "EditorCaption": ""
             },
             {
@@ -124,16 +141,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Models\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GAME API\\Models\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Models\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "GAME API\\Models\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "20251105043744_InitialCreate.cs",
+              "DocumentMoniker": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Migrations\\20251105043744_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GAME API\\Migrations\\20251105043744_InitialCreate.cs",
+              "ToolTip": "D:\\INTI\\Isi Tugas\\Tugas-Pemrograman-Jaringan-Komputer\\GAME API\\GAME API\\Migrations\\20251105043744_InitialCreate.cs",
+              "RelativeToolTip": "GAME API\\Migrations\\20251105043744_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:33:25.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T04:37:45.197Z"
             }
           ]
         }

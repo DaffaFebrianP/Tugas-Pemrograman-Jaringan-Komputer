@@ -7,6 +7,7 @@ namespace GameApi.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
+        // Tabel utama leaderboard
         public DbSet<PlayerScore> PlayerScores { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -17,20 +18,28 @@ namespace GameApi.Data
                       .IsRequired()
                       .HasMaxLength(100);
 
-                entity.Property(p => p.Score).IsRequired();
+                entity.Property(p => p.Score)
+                      .IsRequired();
 
+                // Nilai default waktu otomatis dari SQLite
                 entity.Property(p => p.CreatedAt)
                       .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
-                // Buat index agar leaderboard cepat di-sort
-                entity.HasIndex(p => new { p.Score, p.Id });
+                // Kolom tambahan leaderboard (opsional, tergantung model)
+                entity.Property(p => p.Range)
+                      .HasDefaultValue(0);
 
-                // Seed data awal
-                entity.HasData(
-                    new PlayerScore { Id = 1, PlayerName = "Andi", Score = 1200 },
-                    new PlayerScore { Id = 2, PlayerName = "Nadia", Score = 980 }
-                );
+                entity.Property(p => p.TimeSpent)
+                      .HasDefaultValue(0);
+
+                entity.Property(p => p.PresentsCollected)
+                      .HasDefaultValue(0);
+
+                // Index untuk mempercepat query leaderboard
+                entity.HasIndex(p => new { p.Score, p.Id });
             });
+
+            // ⚠️ Tidak lagi pakai HasData untuk mencegah migrasi duplikat
         }
     }
 }

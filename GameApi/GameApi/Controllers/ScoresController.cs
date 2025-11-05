@@ -18,7 +18,6 @@ namespace GameApi.Controllers
         // =====================================================================
         // 1️⃣ GET /api/scores?page=1&pageSize=10
         // =====================================================================
-        // Ambil semua data skor (urut dari skor tertinggi)
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PlayerScore>>> GetAll(
             [FromQuery] int page = 1,
@@ -36,16 +35,13 @@ namespace GameApi.Controllers
                                   .Take(pageSize)
                                   .ToListAsync();
 
-            // Tambahkan header jumlah total data
             Response.Headers["X-Total-Count"] = total.ToString();
-
             return Ok(data);
         }
 
         // =====================================================================
         // 2️⃣ GET /api/scores/{id}
         // =====================================================================
-        // Ambil data berdasarkan ID
         [HttpGet("{id:int}")]
         public async Task<ActionResult<PlayerScore>> GetById(int id)
         {
@@ -56,7 +52,6 @@ namespace GameApi.Controllers
         // =====================================================================
         // 3️⃣ GET /api/scores/top/{n}
         // =====================================================================
-        // Ambil N skor tertinggi (default 10)
         [HttpGet("top/{n:int}")]
         public async Task<ActionResult<IEnumerable<PlayerScore>>> GetTopN(int n)
         {
@@ -74,7 +69,6 @@ namespace GameApi.Controllers
         // =====================================================================
         // 4️⃣ GET /api/scores/rank/{playerName}
         // =====================================================================
-        // Hitung peringkat pemain berdasarkan skor terbaru miliknya
         [HttpGet("rank/{playerName}")]
         public async Task<ActionResult<object>> GetRank(string playerName)
         {
@@ -106,15 +100,22 @@ namespace GameApi.Controllers
         // =====================================================================
         // 5️⃣ POST /api/scores
         // =====================================================================
-        // Tambahkan skor baru
         [HttpPost]
         public async Task<ActionResult<PlayerScore>> Create([FromBody] PlayerScore input)
         {
             if (string.IsNullOrWhiteSpace(input.PlayerName))
                 return BadRequest("PlayerName is required");
 
-            if (input.Score < 0)
-                return BadRequest("Score must be >= 0");
+            // ✅ Hitung skor otomatis dari data permainan
+            // Rumus bisa disesuaikan sesuai kebutuhan gameplay
+            input.Score = (int)(
+                (input.PresentsCollected * 100) +   // hadiah = poin tinggi
+                (input.Range * 2) -                 // jarak menambah poin
+                (input.TimeSpent / 2)               // waktu lama sedikit mengurangi
+            );
+
+            // Pastikan skor minimal 0
+            if (input.Score < 0) input.Score = 0;
 
             _db.PlayerScores.Add(input);
             await _db.SaveChangesAsync();
@@ -125,7 +126,6 @@ namespace GameApi.Controllers
         // =====================================================================
         // 6️⃣ PUT /api/scores/{id}
         // =====================================================================
-        // Update data berdasarkan ID
         [HttpPut("{id:int}")]
         public async Task<IActionResult> Update(int id, [FromBody] PlayerScore input)
         {
@@ -136,16 +136,23 @@ namespace GameApi.Controllers
             if (!exists)
                 return NotFound();
 
+            // Recalculate score again if any data changes
+            input.Score = (int)(
+                (input.PresentsCollected * 100) +
+                (input.Range * 2) -
+                (input.TimeSpent / 2)
+            );
+            if (input.Score < 0) input.Score = 0;
+
             _db.Entry(input).State = EntityState.Modified;
             await _db.SaveChangesAsync();
 
-            return NoContent(); // HTTP 204 = sukses tanpa isi
+            return NoContent();
         }
 
         // =====================================================================
         // 7️⃣ DELETE /api/scores/{id}
         // =====================================================================
-        // Hapus data berdasarkan ID
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -156,7 +163,7 @@ namespace GameApi.Controllers
             _db.PlayerScores.Remove(item);
             await _db.SaveChangesAsync();
 
-            return NoContent(); // HTTP 204
+            return NoContent();
         }
     }
 }
