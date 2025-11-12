@@ -39,7 +39,7 @@ namespace GameApi.Data
                 entity.HasIndex(p => new { p.Score, p.Id });
             });
 
-            // ⚠️ Tidak lagi pakai HasData untuk mencegah migrasi duplikat
+            //  Tidak lagi pakai HasData untuk mencegah migrasi duplikat
         }
     }
 }

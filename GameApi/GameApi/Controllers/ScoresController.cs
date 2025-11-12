@@ -106,7 +106,7 @@ namespace GameApi.Controllers
             if (string.IsNullOrWhiteSpace(input.PlayerName))
                 return BadRequest("PlayerName is required");
 
-            // ✅ Hitung skor otomatis dari data permainan
+            //  Hitung skor otomatis dari data permainan
             // Rumus bisa disesuaikan sesuai kebutuhan gameplay
             input.Score = (int)(
                 (input.PresentsCollected * 100) +   // hadiah = poin tinggi
